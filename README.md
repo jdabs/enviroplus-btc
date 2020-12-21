@@ -13,3 +13,7 @@ Turn your enviro+ sensor into a bitcoin price display.
 4. `curl -sSL -O https://raw.githubusercontent.com/jdabs/enviroplus-btc/main/btc-24hrprice.py`
 5. `./btc-24hrprice.py`
 
+## End Result Example
+
+
+![Example price display](https://github.com/jdabs/enviroplus-btc/blob/main/IMG_20201220_202304.jpg)
